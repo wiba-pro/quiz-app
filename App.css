@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+.page {
+  margin: 0 auto;
+  background-color: rgb(230, 114, 32);
+  padding: 16px;
+  border-radius: 12px;
+  width: 60%;
+  height: auto;
+  color: white;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.q-t {
+  color: rgba(0, 0, 0, 0.788);
+  font-size: 20px;
+}
+
+ul {
+  list-style: none;
+  padding-left: px;
+}
+
+li {
+  background-color: rgb(37, 69, 139);
+  padding: 16px;
+  border: 3px solid white;
+  font-size: 16px;
+  margin-top: 8px;
+  margin-right: 35px;
+}
+
+.f-r {
+  margin: 0 auto;
+  background-color: chocolate;
+  padding: 16px;
+  border-radius: 12px;
+  color: white;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+  width: 50%;
+  height: auto;
+}
+
+button {
+  background-color: rgb(214, 7, 7);
+  color: white;
+  padding: 16px 24px;
+  border: 3px solid white;
+  text-align: center;
+  text-decoration: none;
+
+  font-weight: bold;
+  font-size: 16px;
+}
